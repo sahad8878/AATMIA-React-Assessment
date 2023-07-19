@@ -44,7 +44,7 @@ function ClassCard({
           ) : (
             <div className=" flex justify-center items-center   ">
               <h1 className="text-center bg-[#800080]  text-white  rounded-full p-1 px-3 sm:text-[16px] font-medium">
-                All ready registerd
+                Already registerd
               </h1>
             </div>
           )

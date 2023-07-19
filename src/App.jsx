@@ -23,7 +23,7 @@ const App = () => {
                 : "hover:shadow-lg border hover:bg-[#800080] hover:text-white"
             } flex justify-center items-center rounded-full w-72 sm:w-96 p-1 font-semibold cursor-pointer`}
           >
-            Select claasses
+            Select classes
           </div>
           <div
             onClick={(e) => setTab(e.target.id)}
